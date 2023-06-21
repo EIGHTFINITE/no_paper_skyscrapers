@@ -1,0 +1,12 @@
+{
+  "name" : "no_paper_skyscrapers",
+  "id" : "",
+  "version" : "1.0",
+  "supported_game_version" : "1.3.*",
+  "short_description" : "",
+  "tags" : ["Balance","Economy And Buildings","Fixes","Gameplay"],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
